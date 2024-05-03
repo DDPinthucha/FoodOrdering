@@ -29,7 +29,7 @@ class HomeScreen extends StatelessWidget {
                   .copyWith(color: primaryColor),
             ),
             const Text(
-              "San Francisco",
+              "Asoke, Bangkok",
               style: TextStyle(color: Colors.black),
             )
           ],
@@ -115,6 +115,9 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ),
                 ),
+                
+                
+
               )
             ],
           ),
